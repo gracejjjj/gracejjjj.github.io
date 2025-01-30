@@ -37,7 +37,7 @@ a, label { cursor:pointer; color:#88C; text-decoration:none;}
 a:hover, label:hover { color:#AAF; text-decoration:underline;}
 #HEADER { font-family:sans-serif; font-size:10px; }
 #HEADER h1 { font-family:georgia; font-size:45px; padding:0px;margin:0px; }
-#FOOTER { margin-top:10px; }
+#FOOTER { margin-left:10px; }
 #LCD { margin:3px; padding:2px; image-rendering:-webkit-optimizeSpeed; }
 .NFO { border:1px solid #AAA; border-radius:6px; display:inline-block;
   padding:8px 16px; font-size:12px; font-weight:bold; background: #EEE; }
